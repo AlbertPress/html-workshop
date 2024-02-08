@@ -5,11 +5,13 @@ body {
     flex-direction: column;
     gap: 3em; /* vahe elementide vahel */
     align-items: center;
+    background-color: darkviolet;
 }
 /* #-ga viitame elemendile, millel on selline id */
 #photo {
-    max-width: 25em;
-    max-height: 30em;
+    max-width: 30em;
+    max-height: 50em;
+    background-color: darkviolet;
 }
 /* .-ga viitame elemenditele, millel on selline class */
 .container {
